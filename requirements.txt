@@ -9,3 +9,4 @@ flask_cors
 datetime
 PyMySQL
 mysql-connector-python
+python-dotenv
