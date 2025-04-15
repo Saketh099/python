@@ -10,3 +10,4 @@ datetime
 PyMySQL
 mysql-connector-python
 python-dotenv
+groq
