@@ -4,7 +4,7 @@ import requests
 import plotly.express as px
 from PIL import Image
 
-API_URL = "http://127.0.0.1:5000"
+API_URL = "https://customer-support-dashboard.onrender.com/"
 
 st.set_page_config(page_title="Customer Support Dashboard", page_icon="📊", layout="wide")
 

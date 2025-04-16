@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS
-from demo import get_db_connection
+from db_config import get_db_connection
 from groq_ai import get_ai_response
 from datetime import datetime
 
